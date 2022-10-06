@@ -23,11 +23,16 @@
 
 ### 3-1. 적용 기술 
 
-JavaScript, React.js, react-router-dom, styled-components, hangul-js(한글조합 라이브러리), gh-pages (배포라이브러리)
+   - JavaScript
+   - React.js
+   - react-router-dom
+   - styled-components
+   - hangul-js (한글조합 라이브러리)
+   - gh-pages (배포라이브러리)
 
 ### 3-2. 구현 기능
 - ✅ 첫번째 페이지
-###### ![image](https://user-images.githubusercontent.com/103613612/194277050-07a6b307-cd2a-4fbd-9cef-6c9f1bb5b021.png)
+###### ![1page](https://user-images.githubusercontent.com/49029756/194371552-48e0cf9d-aa33-477c-86a2-c386beeff2ad.gif)
 
   - 서지원
     - 카테고리 
@@ -48,7 +53,7 @@ JavaScript, React.js, react-router-dom, styled-components, hangul-js(한글조�
       - UI 구현
       
 - ✅ 두번째 페이지
-###### ![image](https://user-images.githubusercontent.com/103613612/194266472-2650377a-981d-4f69-805f-fdac5dd972a4.png)
+###### ![2page](https://user-images.githubusercontent.com/49029756/194371587-1f201809-0e4e-41e0-99f1-a88fbad14c83.gif)
   - 김유현
     - 사용자 피드백
       - 이모티콘 영역 클릭시 숫자 및 텍스트 색상변화 적용
@@ -71,7 +76,7 @@ JavaScript, React.js, react-router-dom, styled-components, hangul-js(한글조�
       - map을 이용해 클릭된 카드의 해시태그를 전부 보여줌
       
 - ✅ 세번째 페이지
-###### ![image](https://user-images.githubusercontent.com/103613612/194279584-aed3cdae-f720-4a44-9d21-57f7f80120c6.png)
+###### ![3page](https://user-images.githubusercontent.com/49029756/194371593-f2560667-a6f4-40de-abeb-6316041ac4fb.gif)
   - 봉원희
     - 모달 구현
     - 키보드 레이아웃

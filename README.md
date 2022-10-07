@@ -32,7 +32,7 @@
 
 ### 3-2. 구현 기능
 - ✅ 첫번째 페이지
-###### <img width="384" alt="1page" src="https://user-images.githubusercontent.com/49029756/194373353-2bf72883-f6a6-4b98-9215-04d70771f152.png">
+###### <img width="381" alt="1page" src="https://user-images.githubusercontent.com/49029756/194465479-484ac236-73dd-4cc0-9bf2-79283ccc4101.png">
 
 ###### ![1page](https://user-images.githubusercontent.com/49029756/194371552-48e0cf9d-aa33-477c-86a2-c386beeff2ad.gif)
 
@@ -57,7 +57,7 @@
 - ✅ 두번째 페이지
 ###### <img width="383" alt="2page - 1" src="https://user-images.githubusercontent.com/49029756/194373363-1d4f7c29-9b58-4e20-93bd-a8f35487b54f.png">
 
-###### <img width="384" alt="2page - 2" src="https://user-images.githubusercontent.com/49029756/194373365-70a5df9a-2a67-4902-a9f6-4bda67479577.png">
+###### <img width="384" alt="2page - 2" src="https://user-images.githubusercontent.com/49029756/194465492-dae1fa65-33f2-48a1-9daf-eb0a787050e4.png">
 
 ###### ![2page](https://user-images.githubusercontent.com/49029756/194371587-1f201809-0e4e-41e0-99f1-a88fbad14c83.gif)
 
@@ -83,7 +83,7 @@
       - map을 이용해 클릭된 카드의 해시태그를 전부 보여줌
       
 - ✅ 세번째 페이지
-###### <img width="383" alt="3page" src="https://user-images.githubusercontent.com/49029756/194373369-098bb4a1-84bf-41fe-87bf-65ea11b58117.png">
+###### <img width="383" alt="3page" src="https://user-images.githubusercontent.com/49029756/194465494-d746aec7-06b7-4553-b9d6-5a78247abc4c.png">
 
 ###### ![3page](https://user-images.githubusercontent.com/49029756/194371593-f2560667-a6f4-40de-abeb-6316041ac4fb.gif)
   - 봉원희
